@@ -1,6 +1,4 @@
-# PokéDex Go: Your Pocket-Sized Pokémon Encyclopedia
-
-**Welcome to PokéDex Go, your ultimate guide to the fascinating world of Pokémon!** Whether you're a seasoned trainer or a curious newcomer, this app has something for everyone.
+**Welcome to Pocemon Go, your ultimate guide to the fascinating world of Pokémon!** Whether you're a seasoned trainer or a curious newcomer, this app has something for everyone.
 
 **Features:**
 
