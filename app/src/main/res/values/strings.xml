@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts Android</string>
+    <string name="the_highlight_color">the highlight color</string>
+    <string name="charmeleon">Charmeleon</string>
+    <string name="fire">fire</string>
+    <string name="defence">Defence :</string>
+    <string name="attack">Attack :</string>
+</resources>
